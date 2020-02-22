@@ -1,0 +1,22 @@
+{
+    "name": "cargoship",
+    "version": "1.0.0",
+    "description": "Transports data between two points using the rest protocol accounting for OAuth token states",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/epicdev-za/cargoship.git"
+    },
+    "author": "Kalden Swart",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/epicdev-za/cargoship/issues"
+    },
+    "homepage": "https://github.com/epicdev-za/cargoship",
+    "dependencies": {
+        "restify-clients": "^2.6.9"
+    }
+}
