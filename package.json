@@ -17,6 +17,6 @@
     },
     "homepage": "https://github.com/epicdev-za/cargoship",
     "dependencies": {
-        "restify-clients": "^2.6.9"
+        "axios": "^0.19.2"
     }
 }
